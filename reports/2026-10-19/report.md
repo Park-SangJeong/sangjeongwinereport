@@ -1,0 +1,113 @@
+# 🍷 전 세계 와인 시장 동향 리포트 (2026-10-19)
+
+> 작성일: 2026년 10월 19일 (월) KST
+> 본 보고서는 웹 검색을 통해 수집한 최신 정보를 기반으로 작성되었으며, 각 항목별 출처를 명시했습니다.
+
+---
+
+## 1. 이번 주 와인 시장 전반 동향
+
+- **세계 와인 소비·교역, 동시에 축소**: OIV(국제와인기구) 집계로 2025년 세계 와인 소비량은 2억 800만 헥토리터로 2024년(2억 1,400만 헥토리터)보다 -2.7% 줄었습니다. 교역 측면에서도 EU 와인시장관측소(S&P Global 집계)에 따르면 2026년 상반기 세계 와인·포도즙 수출이 물량 기준 -8.3%, 금액 기준 -5.2% 감소해 축소 흐름이 심화되고 있습니다. ([Vinetur](https://www.vinetur.com/en/20261001108141/global-wine-trade-shrank-83-in-the-first-half-of-2026.html))
+- **미국 소매 판매, 하락세는 유지되지만 속도는 둔화**: 닐슨IQ 와인펄스 집계로 8월 15일까지 4주간 미국 와인 소매 매출은 전년 대비 금액 -3.4%, 물량 -4.6%를 기록했습니다. 직전 조사(8월 8일까지 4주)의 금액 -3.8%·물량 -5.1%보다는 하락 폭이 소폭 줄어, 급락세가 다소 진정되는 모습입니다. ([Vinetur](https://www.vinetur.com/de/amp/20260825106086/us-wine-sales-fell-34-in-the-four-weeks-ended-aug-15.html))
+- **리브엑스, 1~9월 성적표 공개 — 이탈리아 독주·보르도 부진**: 리브엑스 100 지수는 올해 1~9월 +2.1%(12개월 기준 +4.4%), 전체 와인을 포괄하는 리브엑스 1000 지수는 +1.3%(12개월 +2.2%)를 기록했습니다. 서브인덱스 가운데 이탈리아가 전 지역 중 최고 성과를 이어갔고 샴페인 50지수도 +4.1%로 양호했지만, 보르도 500지수는 -0.2%로 유일하게 역성장했습니다. ([Vinetur](https://www.vinetur.com/en/amp/20261008108617/italian-collectible-wines-led-the-fine-wine-market-through-september.html))
+- **보르도 2025 엉 프리뫼르, '방향성 없는' 캠페인으로 재개**: 가격 급락이 이어졌던 지난 2개 캠페인과 달리 이번엔 샤토별로 제각각입니다. 퐁테 카네(Pontet-Canet)가 병당 약 48유로(2024년보다 평균 2유로 낮음)로 가장 먼저 가격을 공개했고, 슈발 블랑은 반대로 큰 폭의 인상을 발표했습니다. 2025 빈티지는 수량은 적지만 품질은 우수하다는 평가가 중론이며, 2차 시장에서는 최근 빈티지들이 출시가와 같거나 더 싼 값에 거래되고 있어 수요가 여전히 조심스럽습니다. ([Hospitalitynet](https://www.hospitalitynet.org/news/4132840), [WineNews](https://winenews.it/en/bordeaux-en-primeur-2025-high-quality-fluctuating-prices-currently-weak-market_591341/))
+- **ProWein 비즈니스 리포트 2026 — 레드 와인 전망 '비관' 압도적**: 생산자의 13%, 수입·유통·판매업자의 26%만이 레드 와인 실적 호조를 기대한다고 답했습니다. 매력적인 시장 순위에서는 미국이 19위에 그쳤고 독일이 1위를 차지해, 관세·소비 둔화의 이중고를 겪는 미국 시장의 위상 변화를 보여줍니다. ([Vinetur](https://www.vinetur.com/en/amp/global-wine-consumption-in-2026-continues-to-decline-as-consumers-shift-toward-premium-and-selective-drinking.html))
+
+---
+
+## 2. 지역별 인기 와인 현황
+
+### 🇫🇷 프랑스 — 보르도 / 부르고뉴 / 샴페인
+
+- **보르도**: 2025 엉 프리뫼르 캠페인이 뚜렷한 방향성 없이 출발했습니다. 퐁테 카네가 병당 약 48유로(-2유로 YoY)로 먼저 가격을 공개했고, 슈발 블랑은 큰 폭의 인상을 택했습니다. 품질은 우수하나 물량이 적은 빈티지라는 평가 속에, 2차 시장 기존 빈티지가 출시가 수준이거나 더 싼 상황이라 매수자 우위 분위기가 이어지고 있습니다. ([Hospitalitynet](https://www.hospitalitynet.org/news/4132840))
+- **부르고뉴**: 애커 파인&레어 지수에서 올해 1분기 부르고뉴가 +20.7% 뛰며 보르도(+5.4%)·샴페인(+3.1%)을 크게 앞섰고, 3월 라 폴레 경매에서는 1945년 로마네콩티 '라 로마네콩티'가 81만 2,500달러에 낙찰돼 세계 기록을 세웠습니다. 다만 다른 집계(Symbolic Wines)는 2025년 평균 부르고뉴 가격이 하락했고 최상급 일부는 피크 대비 -25~40% 조정을 겪었다고 보는 등, 경매 시장의 '화제성'과 평균 가격 흐름 사이에 시각차가 존재합니다. ([Vinetur](https://www.vinetur.com/en/amp/2026042499641/fine-wine-prices-rebound-in-early-2026.html), [symbolicwines](https://symbolicwines.com/blogs/news/%F0%9F%93%89-burgundy-blues-or-a-buying-opportunity))
+- **샴페인**: 2025년 세계 출하량이 20년來 최저(2억 6,600만 병, -2%)를 기록한 가운데 2026년 작황도 전년 대비 최대 -48% 감소가 예상돼 공급이 더 타이트해질 전망입니다. 반면 재고 여력 덕에 프레스티지 퀴베 가격은 당장 급등하지 않고 있습니다. ([Vinetur](https://www.vinetur.com/en/amp/2026012295281/champagne-shipments-fall-2-globally-as-us-market-defies-downturn-with-1-sales-growth.html))
+
+### 🇮🇹 이탈리아 — 토스카나 / 피에몬테
+
+- **피에몬테**: 리브엑스 집계에서 이탈리아 지수가 1~9월 기준 전 지역 중 최고 성과를 이어가고 있습니다. 오는 10월 28일 그린자네 카부르 성에서는 2021 빈티지 바리크 15통이 출품되는 바롤로 엉 프리뫼르 자선 경매가 열리며, 수익 전액이 사회공헌 프로젝트에 쓰일 예정입니다. ([Vinetur](https://www.vinetur.com/en/amp/20261008108617/italian-collectible-wines-led-the-fine-wine-market-through-september.html), [Wein.Plus](https://magazine.wein.plus/news/auction-barolo-en-primeur-takes-place-again-in-october-the-proceeds-from-the-bottles-benefit-social-projects))
+- **토스카나**: 이탈리아 지수의 성장을 이끄는 건 피에몬테지만, 토스카나도 10월 24~25일 몬탈치노에서 열리는 '사그라 델 토르도' 축제(중세 양궁 대회 + 브루넬로 디 몬탈치노 페어링)로 시즌 피크를 맞습니다. 몬탈치노 포도밭의 절반 이상이 이미 유기농 인증·전환 중이라는 점도 지속가능성 스토리로 꾸준히 언급됩니다. ([Kiwi.com](https://www.kiwi.com/stories/grape-expectations-inside-tuscanys-september-wine-harvest-la-vendemmia/))
+
+### 🇺🇸 미국 — 나파밸리 등
+
+- **'전환점'이지만 '반등'은 아니다**: SVB(실리콘밸리뱅크) 6월 리포트는 미국 와이너리 직배송(DTC) 매출 하락세가 완만해지고 있을 뿐 수요가 되살아난 신호는 아니라고 진단했습니다. 2026년 상반기 DTC는 물량 -15%·금액 -4%를 기록했습니다. ([Napa Valley Register/SVB](https://napavalleyregister.com/news/svb-june-wine-report-napa-valley/article_ce5913c9-a53f-475a-9e5f-58e277db92a0.html))
+- **나파밸리는 프리미엄 지위를 유지한 채 '정리' 국면**: 나파 테이스팅룸 방문객의 평균 구매액은 454달러로 전미 평균(197달러)을 압도하며 2022년 이후 거의 변동이 없습니다. 그럼에도 테이스팅룸 예약은 1년 넘게 하락해 평균 -2.1% YoY를 기록 중입니다. 9월 '옥션 나파밸리 2026'은 2,000명 이상이 참가해 자선기금 600만 달러를 모금하며 역대 최대 흥행을 거뒀는데, 같은 시기 닐슨IQ는 세계 와인 매출이 금액 -4.8%·물량 -6.4% 줄었다고 발표해 '프리미엄 vs 전체 시장'의 괴리를 보여줬습니다. ([Napa Valley Focus](https://napavalleyfocus.substack.com/p/under-the-hood-two-reports-one-warning))
+
+### 🌎 신대륙 — 칠레 · 아르헨티나
+
+- **칠레, 연간 누적은 역성장·8월 단월은 반등**: 2026년 1~8월 누적 수출은 물량 -9.9%·금액 -7.4%로 역성장했지만, 8월 한 달만 보면 5,930만 리터(+18.4%)로 반등했습니다. 2025년 생산량 자체도 전년보다 -10%(840만 헥토리터) 줄어 공급 제약이 이어지고 있습니다. ([Vinetur](https://www.vinetur.com/es/amp/20260930108027/chiles-wine-exports-rose-184-in-august.html))
+- **아르헨티나, 벌크·스파클링 중심 성장이나 단가는 하락**: 상반기 수출 물량이 +14.2%(1억 260만 리터)로 늘었지만 평균 단가는 리터당 2.98달러로 최근 4년 1분기 중 최저치입니다. 품종별(varietal) 와인은 물량 +6.5%·매출 +1.6%로 단가가 내려간 반면 벌크 와인은 물량 기준 +21%(7월 누적 +46.5%)까지 급증해 "박리다매" 구조가 심화되고 있습니다. 말벡은 여전히 품종별 수출의 3분의 2 이상을 차지하는 간판 품종입니다. ([Datamar](https://datamarnews.com/?p=72183))
+
+### 🇰🇷 한국 시장
+
+- **프랑스·미국·이탈리아가 수입액의 3분의 2 차지**: 스페인 와인 기구(OIVE)가 한국 관세청 통계를 분석한 결과, 2026년 상반기 수입액 기준 프랑스(7,070만 유로, +2.6%)·미국(2,760만 유로, -5.4%)·이탈리아(2,320만 유로, -7.6%) 3개국이 전체 수입액의 약 66%를 차지했습니다. 전체 수입은 금액 -4.7%(1억 8,420만 유로)·물량 -0.8%(2,760만 리터)로, 수요 급감보다는 단가 하락이 더 큰 영향을 미쳤습니다. ([Vinetur](https://www.vinetur.com/en/20260810105461/france-us-and-italy-command-two-thirds-of-south-koreas-wine-market-by-value.html))
+- **물량 기준은 스페인이 칠레를 제치고 1위**: 금액 기준 순위와 달리 물량 기준으로는 스페인산이 칠레를 제치고 올라섰으며, 벌크 와인 비중 확대가 주요 배경으로 꼽힙니다. 가정 소비·소모임 중심으로 소비 패턴이 바뀌면서 레드 비중도 2020년 69.42%에서 2025년 50.87%까지 낮아졌습니다. ([Vinetur](https://www.vinetur.com/en/20260915107162/spain-became-south-koreas-largest-wine-supplier-by-volume.html), [Wine21](https://www.wine21.com/11_news/news_view.html?Idx=20943))
+
+---
+
+## 3. 최근 가격 변동이 큰 와인·품종
+
+| 품목/지역 | 최근 변동 | 비고 |
+|---|---|---|
+| 세계 와인 수출(2026년 상반기) | 물량 -8.3%, 금액 -5.2% | S&P Global/EU 와인시장관측소 |
+| 세계 와인 소비(2025년, OIV) | 2억 800만 hl (-2.7%) | 2024년 2억 1,400만 hl |
+| 미국 소매 와인 매출(8/15 마감 4주) | 금액 -3.4%, 물량 -4.6% | 직전 4주보다 하락세 둔화 |
+| 리브엑스 보르도 500지수(1~9월) | -0.2% | 서브인덱스 중 유일한 역성장 |
+| 리브엑스 100지수(1~9월) | +2.1%(12개월 +4.4%) | 이탈리아가 전 지역 중 최고 성과 |
+| 샤토 퐁테 카네 2025 EP | €48/병 (-€2 YoY) | 가장 먼저 가격 공개 |
+| 애커 파인&레어 지수 부르고뉴(1분기) | +20.7% | 보르도(+5.4%)·샴페인(+3.1%) 압도 |
+| 1945 로마네콩티 '라 로마네콩티' | $812,500 (라 폴레 경매) | 세계 기록 |
+| 칠레 와인 수출(2026년 8월 단월) | +18.4%(5,930만 리터) | 1~8월 누적은 -9.9% |
+| 아르헨티나 와인 수출 단가(상반기) | $2.98/L | 최근 4년 1분기 중 최저 |
+| 한국 수입 와인 전체(상반기) | 금액 -4.7%, 물량 -0.8% | 프랑스·미국·이탈리아가 66% 차지 |
+| 레이브노 샤블리(버클리 레스토랑 리스트가) | $595 → $995/병 | 배정 축소에 따른 가격 인상 사례 |
+
+*(출처는 위 1·2절 각 항목 참조)*
+
+---
+
+## 4. 다음 주 주목할 만한 이슈·이벤트
+
+- **크리스티 홍콩 '헨리 탕 컬렉션' 경매(10/10) 결과 — 여전히 미확정**: 860개 로트가 출품된 대형 경매로, 이번 조사 시점까지 최종 낙찰 총액이 공개 보도로 확인되지 않았습니다. 2013년 1차 탕 컬렉션 경매가 추정가($370만)를 65% 웃돈 $612만에 낙찰된 전례가 있어 이번에도 흥행이 예상되며, 결과가 공개되면 다음 보고서에서 확인합니다. ([Paul Fraser Collectibles](https://www.paulfrasercollectibles.com/blogs/wine-whisky-spirits/henry-tang-wine-collection-sees-6-1m-at-christies-hong-kong))
+- **애커 × 샤토 앙젤루스 '랜드마크' 단독 셀러 경매(10/17) 결과 — 여전히 미확정**: 1955년 매그넘·1959년 보틀과 미공개 '그랑뱅 블랑'이 처음 출품된 역대 최대 규모 단일 생산자 경매입니다. 델라웨어에서 진행되고 뉴욕 마레아(Marea)로 생중계됐으나 최종 낙찰 결과는 아직 보도되지 않았습니다. ([Wine Industry Advisor](https://wineindustryadvisor.com/2026/10/01/angelus-and-acker-announce-landmark-us-auction/))
+- **남산 와인페스타 2차(서울, 10/24~25)**: CJ푸드빌이 '남산 와인페어'에서 명칭을 바꿔 올가을 9회째로 치르는 행사로, N서울타워 광장에서 200여 종의 와인과 음악·미식을 즐길 수 있습니다. 10/17~18 1차에 이은 2차 회차로, 조기 매진 이력이 있어 현장 구매 가능 여부는 사전 확인이 필요합니다. ([CJ Newsroom](https://cjnews.cj.net/?p=79513))
+- **바롤로 엉 프리뫼르 자선 경매(10/28, 그린자네 카부르 성)**: 2021 빈티지 바리크 15통이 경매되며 수익 전액이 사회공헌 프로젝트에 기부됩니다. ([Wein.Plus](https://magazine.wein.plus/news/auction-barolo-en-primeur-takes-place-again-in-october-the-proceeds-from-the-bottles-benefit-social-projects))
+- **사그라 델 토르도(몬탈치노, 10/24~25)**: 중세 양궁 대회와 브루넬로 디 몬탈치노 페어링이 함께 열리는 지역 축제입니다. ([Kiwi.com](https://www.kiwi.com/stories/grape-expectations-inside-tuscanys-september-wine-harvest-la-vendemmia/))
+- **(참고) 보졸레 누보 2026 출시(11/19)**: 매년 11월 셋째 주 목요일로 법제화된 출시일에 맞춰 조르주 뒤뵈프 등 주요 네고시앙의 2026 누보가 전 세계에 동시 출시됩니다. 미국 소매가는 750ml 기준 14.99~15.99달러 수준으로 예고됐습니다. ([icalendrier.fr](https://icalendrier.fr/evenements/beaujolais-nouveau))
+- **(참고) 제임스 서클링 '그레이트 와인스 월드' 서울(11/2, 그랜드 하얏트 서울)**: 150여 생산자·270여 종·35개 산지가 출품되는 서울 최대 규모 워크어라운드 테이스팅이 2주 앞으로 다가왔습니다. ([James Suckling](https://tickets-korea.jamessuckling.com/event/james-suckling-great-wines-world-seoul-2026-yep007))
+- **(참고) 오스피스 드 본느 제166회 경매(11/15, 본느 레 알)**: "세계에서 가장 오래되고 권위 있는 와인 경매"로, 올해 샴페인·부르고뉴 수확량 급감 이후 첫 대형 경매라 가격 방향성의 가늠자가 될 전망입니다. ([Sotheby's](https://www.sothebys.com/en/about/locations/beaune?locale=en))
+
+---
+
+## 5. 오늘의 품종 공부 — 그릴로 (Grillo)
+
+- **품종 개요**: 그릴로는 이탈리아 시칠리아(Sicilia)가 원산지인 청포도 품종으로, 전통적으로는 마르살라(Marsala) 강화 와인의 핵심 원료였습니다. 1990년 유명 마르살라 생산자 마르코 데 바르톨리(Marco De Bartoli)가 그릴로 단일 품종으로 드라이 화이트 와인을 양조하면서 재조명받기 시작했고, 이후 시칠리아 전역에서 "단독 품종 화이트"로 빠르게 확산됐습니다. 카타니아(Catarratto)와 자라돌라(Zibibbo)가 각각 지배하던 시칠리아 화이트 시장에서, 그릴로는 2004~2014년 사이 재배 면적이 180% 늘어 약 6,500ha까지 확대됐습니다. ([Napa Valley Wine Academy](https://napavalleywineacademy.com/sicilys-unsung-grapes-grillo-and-zibibbo/))
+- **재배·특징**: 그릴로는 가르가네가(Garganega)와 카타라토(Catarratto)의 교배종으로 알려져 있으며, 덥고 건조한 시칠리아 기후에 강한 내건성(耐乾性) 품종입니다. 최근에는 에트나(Etna) 주변이나 내륙 고지대의 서늘한 포도밭으로도 재배지가 확대되면서 산도를 더 끌어올리는 스타일이 늘고 있습니다. 와인은 라이트~미디엄 바디, 레몬·풋사과 등 상큼한 시트러스·핵과 아로마에 허브·미네랄 뉘앙스가 더해지고, 산도가 또렷하면서도 마시기 편한 균형감이 특징입니다. 스킨 콘택트(오렌지 와인) 양조로도 자주 쓰여, 질감과 풍미의 범위가 넓은 품종으로 평가받습니다. ([International Wine Challenge](https://www.internationalwinechallenge.com/iwc-insight/amazing-wines/grillo-great-contender.html))
+- **대표 와인**:
+  - 라피탈라(Rapitalà) 그릴로 시칠리아 DOC — 입문용 베이식 스타일, 1만 5,000~1만 8,000원대
+  - 칸티네 비르지(Cantine Birgi) '칼루라(Kalura)' 그릴로 — 가성비 좋은 데일리 화이트, 1만~1만 3,000원대
+  - 바글리오 디 그리시(Baglio di Grìsi) 그릴로 비올로지코(유기농) — 유기농 인증, 2만~2만 3,000원대
+  - 피르마 델 템포(Firma del Tempo) 그릴로 리제르바 — 오크 숙성을 더한 프리미엄 라인, 2만 8,000~3만 2,000원대
+  - 도나푸가타(Donnafugata) '수르수르(SurSur)' 그릴로 — 국내에도 유통되는 시칠리아 대표 생산자 라인, 3만~4만 원대
+  (국내 소매가는 수입사·판매처·빈티지에 따라 달라질 수 있습니다.)
+- **최근 주목받는 이유**: DOC 시칠리아 콘소르치오 회장 안토니오 랄로는 그릴로가 특히 미국 시장에서 인기를 얻고 있다고 밝혔으며, 상큼하면서도 풍미가 뚜렷한 "시칠리아만의 개성"을 매력으로 꼽았습니다. 팔스타프(Falstaff)는 2024 빈티지 이탈리아 최고 와인 목록에 다수의 그릴로를 90점대로 선정하기도 했습니다. 기후변화로 고지대·서늘한 테루아를 찾는 생산자가 늘면서 '가벼운 지중해 화이트' 수요와 맞물려 BTG·오마카세용 화이트로 주목받고 있으며, 내추럴 와인 신에서는 스킨 콘택트 그릴로가 오렌지 와인 리스트의 단골 품종으로 떠오르고 있습니다. ([Decanter](https://www.decanter.com/?p=543802), [Falstaff](https://www.falstaff.com/en/listings/grillo-the-best-wines-of-the-vintage-2024-from-italy))
+
+---
+
+## 6. 한국 외식업계 와인 판매 동향
+
+- **업장 유형별 트렌드**: 파인다이닝·오마카세는 셰프 코스에 맞춰 와인을 큐레이션하는 '푸드 퍼스트' 페어링이 계속 확장되고 있고, 오마카세는 생선 본연의 맛을 살리는 샴페인·미네랄리티 강한 화이트(오늘의 품종인 그릴로 같은 지중해 화이트 포함)가 꾸준히 강세입니다. 와인바는 다양한 가격대·스타일을 한 번에 경험시키는 폭넓은 BTG 구성이 표준으로 자리 잡았고, 캐주얼 다이닝에서는 가볍게 즐기는 와인 다이닝 포맷이 연말 모임 수요와 맞물려 더 대중화되는 추세입니다. ([GQ Korea](https://www.gqkorea.co.kr/?p=149968))
+- **화제의 상권·레이블**: 성수동에서는 콜키지 프리·고급 와인잔을 무료 제공하는 '보다(BODA)'가 최근 가장 화제가 되는 와인 모임 장소로 꼽히고 있고, 시음 가능한 와인 종류가 풍부한 '매치스'도 꾸준히 언급됩니다. 청담에서는 약 3,000여 종을 갖춘 라이브러리형 플래그십 '와인픽스 청담점'이 랜드마크 역할을 이어가고 있습니다. 10월 넷째 주말 N서울타워에서 열리는 남산 와인페스타(4절 참조)도 서울 와인 애호가들 사이에서 화제의 이슈로 꼽힙니다. (hotplacehunter.co.kr, CJ Newsroom)
+- **리스트 구성·마진 트렌드**: 도매가 대비 200~300% 마크업이 업계 표준으로 통용되며, 병당 원가가 높을수록 마크업 배율을 낮추는 이원화 전략이 일반적입니다. BTG는 첫 1~2잔 판매로 병 전체 원가를 회수하도록 설계해 나머지 잔을 순이익으로 잡는 구조가 표준이며, 최근에는 오늘의 품종인 그릴로처럼 브랜드 프리미엄이 낮아 원가 방어가 쉬우면서도 개성 있는 지중해 화이트를 BTG·바이더보틀 리스트에 새로 편입하는 오마카세·와인바가 늘고 있습니다. ([Sommelier Business](https://sommelierbusiness.com/en/articles/menu-intel-1/your-wine-by-the-glass-program-selections-pricing-and-merchandising-17.htm))
+
+---
+
+## 7. 희소·고수요 와인 동향
+
+- **품절·배정 물량 부족**: 호주 바로사밸리의 사미-오디(Sami-Odi)는 연간 약 1,000케이스 한정 생산에 3만 명 이상이 대기자 명단에 올라, 출시 이틀 만에 전량 매진되는 대표적인 '초(超)배정' 와인으로 꼽힙니다. 나파밸리 하이엔드 컬트 와이너리 할란 에스테이트(Harlan Estate)도 신규 고객에게는 배정 리스트가 실질적으로 닫혀 있는 상태입니다. ([VinePair](https://vinepair.com/articles/vp-podcast-allocated-wines-alienating-guests), [enprimeurclub](https://www.enprimeurclub.com/guide/inside-harlan-estate-booking-the-visit-thats-worth-it-in-2026))
+- **최근 급부상 중인 '핫한' 생산자/빈티지**: 부르고뉴에서는 3월 라 폴레 경매에서 1945년 로마네콩티가 81만 2,500달러에 낙찰돼 세계 기록을 세우며 애커 지수 기준 부르고뉴가 1분기 전 지역 중 가장 강한 성과(+20.7%)를 냈습니다. 보르도에서는 2025 빈티지 중 슈발 블랑처럼 고평가받은 소량 생산 샤토가 가격을 올려도 수요를 유지하는 반면, 평범한 샤토는 가격을 낮춰도 판매가 쉽지 않은 '승자독식' 양상이 뚜렷해지고 있습니다. ([Vinetur](https://www.vinetur.com/en/amp/2026042499641/fine-wine-prices-rebound-in-early-2026.html))
+- **리셀 시장·경매 프리미엄**: 배정 물량이 줄어든 희귀 와인은 레스토랑 리스트에서도 가격이 뛰고 있습니다. 미국 버클리의 한 레스토랑에서는 라벤노(Raveneau) 샤블리 가격이 595달러에서 995달러로 인상된 사례가 보도됐습니다. 홍콩에서는 크리스티의 '헨리 탕 컬렉션'(860개 로트, 10/10)과 애커×샤토 앙젤루스 단독 셀러 경매(10/17)의 최종 낙찰 결과가 아직 공개되지 않아 다음 보고서에서 계속 추적합니다(4절 참조). ([San Francisco Chronicle](https://preview-prod.w.sfchronicle.com/food/wine/article/allocated-bay-area-restaurants-17857170.php))
+
+---
+
+*본 보고서는 자동화된 스케줄 작업으로 매일 작성되며, GitHub Actions를 통해 텔레그램으로 전송됩니다.*
