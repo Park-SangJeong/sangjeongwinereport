@@ -1,109 +1,119 @@
-# 🍷 전 세계 와인 시장 동향 리포트 (2026-10-31)
-
-> 작성일: 2026년 10월 31일 (토) KST
-> 본 보고서는 웹 검색을 통해 수집한 최신 정보를 기반으로 작성되었으며, 각 항목별 출처를 명시했습니다.
-
----
+# 글로벌 와인 시장 리포트 — 2026-11-01
 
 ## 1. 이번 주 와인 시장 전반 동향
 
-- **세계 와인 소비, 2026년에도 계속 감소 — 다만 프리미엄·선별적 소비로 무게추 이동**: 2026년 초 분석에 따르면 전 세계 와인 소비량은 계속 줄거나 정체되는 반면, 프리미엄 세그먼트에서는 소비자 한 번 지출액이 유지되는 흐름이 뚜렷합니다. ProWein 비즈니스 리포트는 비용 상승·수요 둔화·새로운 무역장벽을 업계 종사자들이 가장 우려하는 요인으로 꼽았고, 美 수요는 연초 기준 11.5% 감소했다는 집계도 있습니다. ([Vinetur](https://www.vinetur.com/en/2026031097353/global-wine-consumption-in-2026-continues-to-decline-as-consumers-shift-toward-premium-and-selective-drinking.html), [Vinetur](https://www.vinetur.com/en/amp/2026030296926/global-wine-industry-faces-rising-costs-as-top-concern-in-2026-prowein-report-finds.html))
-- **파인와인 시장, 이탈리아가 9월까지 회복세 견인 — 보르도만 유일하게 연간 마이너스**: 10/8 보도에 따르면 이탈리아 컬렉터블 와인이 9월까지 파인와인 시장 회복을 주도했고, Liv-ex 지수는 다시 상승세로 돌아섰습니다. 보르도는 올해 전체 주요 지수 중 유일하게 연간 마이너스권에 머물러 있는 반면, 지난 7개월간 Liv-ex 100은 +0.4%, 최근 12개월로는 +3.3%를 기록했습니다. ([Vinetur](https://www.vinetur.com/en/amp/20261008108617/italian-collectible-wines-led-the-fine-wine-market-through-september.html))
-- **보르도 2025빈 엉 프리뫼르, "15년來 최저가"인데도 수요는 소수 샤토에만 집중**: Liv-ex의 캠페인 결산에 따르면 슈발 블랑·마고·라피트·바타이이 등 일부 명가만 수요가 몰렸고, 나머지 와인들은 저렴한 구빈티지와의 경쟁에서 밀렸습니다. 2022년 고점 이후 보르도 가격은 평균 27% 하락했고 최근 1년으로도 4% 더 빠졌지만, 2025년 말부터는 안정화 조짐도 보입니다. ([Vinetur](https://www.vinetur.com/en/20260630103509/liv-ex-says-bordeauxs-2025-en-primeur-campaign-drew-demand-for-only-a-handful-of-wines.html), [Vinetur](https://www.vinetur.com/en/amp/20260608102256/bordeaux-offers-its-cheapest-top-wines-in-15-years.html))
-- **한국, 2025년 수입량은 늘었지만 2026년 상반기엔 금액·물량 모두 둔화**: 2025년 전체 수입량은 48만7,558hL로 전년 대비 5.27% 늘며 프랑스(36.97%)·이탈리아·미국 3개국이 금액 기준 65.12%를 차지했습니다. 반면 2026년 상반기는 수입액이 약 1억8,420만 유로로 전년 대비 줄었다는 보도가 다수이며(물량도 소폭 감소), 고가 와인 시장이 환율 부담으로 특히 위축될 수 있다는 분석이 나옵니다. ([Vinetur](https://www.vinetur.com/en/amp/20260810105461/france-us-and-italy-command-two-thirds-of-south-koreas-wine-market-by-value.html), [Vinetur](https://www.vinetur.com/en/amp/20261023109648/south-koreas-wine-import-bill-fell-to-18413-million-euros-in-the-first-half-of-2026.html))
-
----
+- **소비는 계속 둔화, 소비는 더 선택적으로:** 2026년에도 전 세계 와인 소비량은 줄고 있으며, 소비자들은 프리미엄·선택적 소비로 이동 중이다. 미국 수요는 전년 대비 약 11.5% 감소했다는 분석이 나왔다. 영국은 고도수 와인에 대한 주세 인상으로 수요가 더 눌리는 모습이다. ([Vinetur](https://www.vinetur.com/en/2026031097353/global-wine-consumption-in-2026-continues-to-decline-as-consumers-shift-toward-premium-and-selective-drinking.html), [IWC Insight](https://www.internationalwinechallenge.com/Canopy-Articles/wine-market-predictions-2026-a-fools-errand.html))
+- **프랑스, 30년래 최악의 작황:** 2026년 프랑스 전체 와인 수확량이 30년 만에 가장 낮은 수준으로 집계됐다. 샴페인 지역은 생산량이 전년 대비 약 49% 급감했고, 부르고뉴 피노 누아도 50% 이상 손실을 본 곳이 있다. 다만 기존 재고가 많아 당장 매장 품절로는 이어지지 않을 전망이다. ([Vinetur](https://www.vinetur.com/en/20260907106700/france-faces-one-of-its-weakest-wine-harvests-in-30-years.html), [Euronews](https://www.euronews.com/2026/09/09/why-a-50-harvest-collapse-wont-leave-shelves-short-of-champagne))
+- **파인와인 가격, 완만한 반등 조짐:** 샴페인 평균가는 최근 3년간 -12%, 부르고뉴는 -29% 하락했지만, 2026년 초부터 고급 와인 가격이 일부 되살아나는 흐름이 포착된다. Liv-ex 샴페인 50 지수는 5월 기준 497.55로 연초 대비 +1.0%를 기록해 바닥을 다지는 모습이다. ([Vinetur](https://www.vinetur.com/fr/2026042499641/fine-wine-prices-rebound-in-early-2026.html), [Vinetur](https://www.vinetur.com/en/amp/2025121994390/champagne-prices-drop-12-globally-as-sales-slide-and-inventories-reach-five-year-high.html))
+- **나파밸리, 이른 수확 + 작황 급감:** 2026년 나파밸리 수확은 역대 가장 빠르게 시작됐고(Chandon California 기준 53년 역사상 최초), 작황은 전년 대비 최대 50% 가까이 줄었을 것으로 추정된다. 과잉 공급 해소에는 도움이 되지만 재배자 수익에는 부담이다. ([Vinetur](https://www.vinetur.com/en/20261019109266/california-wineries-welcome-a-harvest-that-may-be-50-smaller-in-napa-valley.html))
+- **보르도 엉프리뫼 2025빈티지:** 2026년 4월 20~23일 진행된 엉프리뫼 위크에서는 전반적으로 가격이 오르는 와이너리가 많았지만, 레드 와인 과잉생산 문제가 여전히 가격 상승을 억제하는 요인으로 지목된다. ([Meininger](https://www.meininger.de/wein/handel/bordeaux-wird-wieder-teurer))
+- **아르헨티나 수출 '양은 늘고 단가는 내려가는' 구조:** 2026년 상반기 아르헨티나 와인 수출 물량은 +14%였지만 수출액은 +3%에 그쳤다. 벌크(원액) 와인 비중이 커지며 평균 단가가 약 10% 떨어진 결과다. ([Vinetur](https://www.vinetur.com/en/20260908106784/argentinas-wine-export-volume-rose-14-in-2026-but-value-increased-only-3.html))
 
 ## 2. 지역별 인기 와인 현황
 
-### 🇫🇷 프랑스 — 보르도 / 부르고뉴
+### 🇫🇷 프랑스 — 보르도 · 부르고뉴
+2025빈티지 보르도 엉프리뫼 가격은 전반적으로 소폭 상승했지만 레드 와인 과잉공급이 변수다. 부르고뉴는 2024빈티지 엉프리뫼가 진행 중이며, 최상급 '블루칩' 생산자 와인은 3년간의 하락세 이후 반등 조짐을 보인다. 2026년 수확 급감이 내년 이후 공급·가격에 더 큰 영향을 줄 전망이다. ([Vinetur](https://www.vinetur.com/en/20260907106700/france-faces-one-of-its-weakest-wine-harvests-in-30-years.html))
 
-- **보르도**: 2025 엉 프리뫼르는 평단 호평(2022년 다음, 2016년보다 약간 우위라는 평가)에도 상업적으로는 선별적 성공에 그쳤습니다. 베리 브라더스 & 러드는 "캠페인이 작동했다"고 평가했지만, 많은 네고시앙들은 신중한 수요와 들쑥날쑥한 공개가, 저렴한 구빈티지와의 경쟁을 넘어서지 못했다고 전합니다. ([Zachys](https://www.zachys.com/blogs/news/bordeaux-en-primeur-2025), [Vinetur](https://www.vinetur.com/en/20260618102936/bordeauxs-2025-futures-campaign-loses-momentum-despite-strong-reviews.html))
-- **부르고뉴**: 7월 기준 Liv-ex 거래 금액에서 2022년 이후 처음으로 보르도를 제치고 1위 산지에 올랐다는 보도가 나왔고, 2026년 활성 거래 상위 25종 와인 중 24종이 부르고뉴산이라는 집계도 있습니다. 다만 상세 통계는 여전히 혼재돼 있어 — 연간 스틸 와인 판매량은 7월까지 1.3% 감소(레드 -4.9%, 크레망 드 부르고뉴 +6.5%)했고, Decanter는 "많은 거래가 희박하고 호가가 다소 낙관적"이라고 경고합니다. ([Vinetur](https://www.vinetur.com/en/amp/20261006108424/burgundy-still-wine-sales-fell-13-in-the-year-through-july-2026.html), [Decanter](https://www.decanter.com/premium/wine-investment-modest-growth-for-top-burgundies-573239/))
+### 🇮🇹 이탈리아 — 토스카나 · 피에몬테
+피에몬테의 네비올로 기반 와인(바롤로·바르바레스코)은 장기적으로 꾸준한 가격 상승세를 보여왔다(2015~2020년 사이 각각 +32%, +22%). 바르바레스코는 바롤로보다 상대적으로 저평가된 '가치주'로 재조명받는 분위기다. 토스카나 역시 산지오베제 기반 와인 수요가 안정적으로 유지되고 있다. ([Decanter](https://www.decanter.com/premium/piedmont-wine-guide-collectors-barolo-439062), [Unicorn Auctions](https://unicornauctions.com/unicorn-review/a-challenge-to-the-conventional-wisdom-on-nebbiolo))
 
-### 🇮🇹 이탈리아 — 토스카나 / 피에몬테
-
-- **토스카나**: 2026년 1분기 수출이 -8.3%로 부진했고, 美 시장에서는 2025년 기준 수출액 약 -23%, 병입 스틸 레드 와인은 최대 -28%, 평균 단가도 -10.8% 하락했습니다. 관세와 약달러가 주요 원인으로 지목됩니다. ([Winenews](https://winenews.it/en/piedmont-of-wine-has-been-able-to-respond-to-difficulties-the-region-comments-winenews-analysis_594032/))
-- **피에몬테**: 상반기 수출액이 5억6,690만 유로(+2.4%)로 토스카나(5억4,360만 유로)를 앞질러 지역 순위 3위로 올라섰고, 1분기에는 이탈리아에서 유일하게 수출이 증가한 지역이었습니다. 이탈리아 전체 PDO 와인 수출은 1~4월 기준 -6.2%였던 것과 대조적입니다. ([Vinetur](https://www.vinetur.com/en/20260915107164/piedmont-overtook-tuscany-in-italys-wine-exports-in-the-first-half-of-2026.html), [Vinetur](https://www.vinetur.com/en/amp/20260803105182/italian-pdo-wine-exports-fell-62-in-early-2026.html))
-
-### 🇺🇸 미국 — 나파밸리 등
-
-- **나파, "붐도 아니고 붕괴도 아닌 재정렬(clearing)"**: SVB 보고서는 2025년 美 전체 와인 물량이 3억2,900만 케이스(전년 3억3,590만 케이스)로 줄었고 시장은 2027~2028년 바닥을 찍을 것으로 전망했습니다. 美 와이너리 다이렉트 출하량은 2026년 6월 전년 대비 16% 급감해 10년래 최저 속도를 기록했고, 캐나다의 보복성 조치로 그르기치 힐스 등 일부 와이너리의 캐나다 판매는 1,000케이스 이상에서 '0'까지 떨어졌습니다. 다만 나파 프리미엄 세그먼트의 다이렉트 판매는 상대적으로 덜 흔들렸다는 분석도 있습니다. ([Vinetur](https://www.vinetur.com/en/20260722104673/us-winery-shipments-fell-16-in-june-to-their-weakest-pace-in-a-decade.html), [Vinetur](https://www.vinetur.com/en/amp/20261022109517/canadian-retaliation-blocks-napa-wineries-from-their-biggest-export-market.html))
+### 🇺🇸 미국 — 나파밸리
+2026년 수확이 역대 가장 빨리 시작됐고 작황은 대폭 줄었다. 고가 와이너리 구매자들은 점점 더 선별적으로 구매하는 '클리어링(재고 정리)' 국면이 이어지고 있다는 분석이 나온다. ([Symbolic Wines](https://symbolicwines.com/blogs/news/market-insight-napa-s-2026-clearing-continues-as-high-end-buyers-get-more-selective))
 
 ### 🌎 신대륙 — 칠레 · 아르헨티나
-
-- **칠레**: 카베르네 소비뇽이 생산량의 27.5%를 차지하며 여전히 압도적 1위 품종이고, 벌크 와인 중심 수출 구조에서 카르메네르를 '국가 대표 품종'으로 내세워 프리미엄 병입 와인으로 포지셔닝을 전환하려는 움직임이 계속되고 있습니다. ([Mendoza Post](https://www.mendozapost.com/economia/argentina-vs-chile-que-uvas-y-vinos-produce-cada-uno/))
-- **아르헨티나**: 말벡이 여전히 간판 품종이지만, 올해 들어 벌크 와인 수출 비중이 가파르게 늘며 단가 하락이 뚜렷해지고 있어 — 상반기 전체 와인 수출은 물량 기준 늘었지만 금액 증가는 그에 못 미쳐 저가 벌크화가 심화되는 양상입니다. ([Datamar](https://datamarnews.com/?p=72183))
+아르헨티나는 말벡이 여전히 수출 간판 품종으로, 2026년 상반기 56.5만 헥토리터를 수출해 약 1억 8,180만 달러의 매출을 올렸다(평균 단가 리터당 3.21달러). 다만 벌크 비중이 10년 전 19.4%에서 34.5%로 커지며 평균 단가는 떨어지는 추세다. 칠레는 벌크 수출이 2026년 상반기 전년 대비 -15.4%를 기록하며 상대적으로 약세다. 국제적으로는 화이트·로제·저알코올 와인에 대한 수요가 늘고 있다. ([Vinetur](https://www.vinetur.com/amp/2026041899220/dia-del-malbec-liderazgo-global-en-un-mercado-cada-vez-mas-desafiante.html), [Vinetur](https://www.vinetur.com/en/20260908106784/argentinas-wine-export-volume-rose-14-in-2026-but-value-increased-only-3.html))
 
 ### 🇰🇷 한국 시장
-
-- **금액은 프랑스·美·이탈리아 2/3, 물량은 스페인 1위로 재편**: 2025년 전체 기준 프랑스·이탈리아·미국이 금액의 65.12%를 차지하는 구조가 유지되는 가운데, 2026년 상반기 물량 기준으로는 스페인이 칠레를 제치고 공급국 1위에 올랐습니다. 가성비·실속형 와인 선호가 계속 강해지는 신호로 해석됩니다. ([Vinetur](https://www.vinetur.com/en/amp/20260810105461/france-us-and-italy-command-two-thirds-of-south-koreas-wine-market-by-value.html))
-- **무알코올 와인 급증, 다만 기저효과 주의**: 2026년 1월 기준 무알코올 와인 수입액이 전년 동기 대비 4,340% 증가했다는 집계가 있으나, 절대 규모가 작은 데서 나온 통계적 착시일 가능성이 큽니다. ([Tridge](https://blog.tridge.com/blog-posts/navigating-koreas-non-alcoholic-shift-wine-surges-4-340-as-beer-imports-decline))
-
----
+2026년 상반기 한국의 와인 수입액은 전년 대비 4.7% 줄어든 약 1억 8,420만 유로, 수입량도 소폭(-0.8%) 감소했다. 평균 수입 단가는 리터당 6.67유로로 3.9% 하락했다. 금액 기준으로는 프랑스가 여전히 1위(상반기 7,070만 유로)지만, 물량 기준으로는 스페인이 칠레를 제치고 1위에 올랐다. 고환율 지속으로 고급 와인 시장이 위축되고, 와인이 '일상적으로 가볍게 마시는 술'로 포지셔닝되는 흐름이 짙어지고 있다는 전망이 제기된다. ([Vinetur](https://www.vinetur.com/en/amp/20261023109648/south-koreas-wine-import-bill-fell-to-18413-million-euros-in-the-first-half-of-2026.html), [Vinetur](https://www.vinetur.com/en/amp/20260810105461/france-us-and-italy-command-two-thirds-of-south-koreas-wine-market-by-value.html))
 
 ## 3. 최근 가격 변동이 큰 와인·품종
 
-| 품목/지역 | 최근 변동 | 비고 |
+| 와인/품종 | 변동 내용 | 비고 |
 |---|---|---|
-| Liv-ex 100(최근 12개월) | +3.3% | 최근 7개월은 +0.4%, 이탈리아가 견인 |
-| 보르도 가격(2022년 고점 대비) | -27% | 최근 1년 -4%, 2025년 말부터 안정화 조짐 |
-| 보르도 2025 엉 프리뫼르 공개가 | 15년래 최저 | 수요는 슈발 블랑·마고·라피트 등 소수 샤토 집중 |
-| 부르고뉴 Liv-ex 거래금액 순위 | 2022년來 첫 1위(보르도 추월) | 7월 기준, 활성 거래 상위 25종 중 24종이 부르고뉴 |
-| 부르고뉴 스틸 와인 판매량(연간, 7월까지) | -1.3% | 레드 -4.9% / 크레망 드 부르고뉴 +6.5% |
-| 토스카나 美 수출 단가(2025년) | -10.8% | 관세·약달러 영향, 병입 레드 물량 최대 -28% |
-| 피에몬테 수출액(상반기) | +2.4%, 5억6,690만€ | 이탈리아 내 수출 증가 지역 중 선두 |
-| 美 와이너리 다이렉트 출하량(2026.6) | -16% | 10년래 최저 속도 |
-| 샴페인 프레스티지 퀴베 가격 | 보합 | 벤치마크 지수는 +2.6%이나 풍부한 공급으로 협상 여지 |
-| 샴페인 선적량 | 20년래 최저 | 2027년 이전 회복 전망 없음 |
-| 한국 와인 수입액(상반기) | 감소(출처별 -4~-5% 내외) | 환율 부담으로 고가 와인 시장 위축 우려 |
-| 한국 무알코올 와인 수입액(2026.1) | +4,340% | 기저효과, 해석 주의 |
-
-*(출처는 위 1·2절 및 하단 5·7절 참조)*
-
----
+| 샴페인 | 최근 3년 평균가 -12%, 2026년 수확량은 -49% | 공급 충격으로 향후 가격 재상승 압력 존재 |
+| 부르고뉴(피노 누아) | 최근 3년 -29%, 2026 수확도 지역별 -50% 이상 손실 | 블루칩 생산자는 되레 반등 조짐 |
+| 보르도 2025빈티지(엉프리뫼) | 전반적 소폭 상승 | 레드 와인 과잉공급이 상승폭 제한 |
+| 네비올로(바롤로·바르바레스코) | 2015~2020년 각 +32%, +22% (장기) | 구조적 강세 지속, 바르바레스코는 상대적 저가 매력 |
+| 아르헨티나 말벡(벌크 비중 확대) | 평균 수출단가 약 -10% | 수출 물량은 +14%로 '양은 늘고 단가는 내려가는' 구조 |
+| 한국 수입 와인 전반 | 평균 수입단가 -3.9% | 고환율 속 수입사들의 가격 경쟁 심화 시그널 |
 
 ## 4. 다음 주 주목할 만한 이슈·이벤트
 
-- **166회 오스피스 드 본(Hospices de Beaune) 자선 경매(11/15 일, 프랑스 본 Halles de Beaune)**: Sotheby's가 주관하는 부르고뉴 대표 배럴 경매로, 2절에서 다룬 '보르도 추월' 랠리의 다음 지표로 주목받고 있습니다. ([Sotheby's](https://www.sothebys.com/en/about/locations/beaune?locale=en))
-- **제42회 케이프 와인메이커스 길드 경매(남아공, Strauss & Co 주관)**: 역대 가장 다양한 라인업인 58종의 희귀 와인이 출품돼, 남아공 프리미엄 와인에 대한 국제 수요를 가늠하는 지표가 될 전망입니다. ([Strauss & Co](https://www.straussart.co.za/2026/cape-winemakers-guild-auction-2026-returns-with-its-most-diverse-wine-lineup-yet-at-strauss-and-co-this-november-2026))
-- **디캔터 파인 와인 인카운터 런던(11월, 더 랜드마크 런던)**: 다수 생산자가 참가하는 트레이드 대상 그랜드 테이스팅으로, 보르도·부르고뉴 양 시장의 현재 온도를 가늠할 기회로 거론됩니다. ([Decanter Events](https://www.decanter.com/wine/decanter-fine-wine-encounter-london-returns-this-november/))
-- **샌디에이고 그랜드 위크엔드(11/6~8)**: 美 서부 대표 와인 축제로, 나파·소노마 등 캘리포니아 프리미엄 생산자들의 현지 반응을 살필 수 있는 자리입니다.
-- **Acker 등 주요 경매사 11월 카탈로그**: 2026년 상반기 Acker가 1억2,500만 달러 기록을 세운 가운데, 부르고뉴 그랑크뤼(로마네콩티·르루아·콩트 리제르 벨레르 계열) 중심의 강세가 11월에도 이어질지가 관전 포인트입니다. ([Vinetur](https://www.vinetur.com/it/amp/20260908106814/fine-wine-auctions-rebounded-in-early-2026-after-acker-posted-a-record-$125-million-first-half.html))
+- **오스피스 드 본(Hospices de Beaune) 경매 — 11월 15일(일):** 166번째 에디션으로, 11월 14~16일 '트루아 글로리외즈(Les Trois Glorieuses)' 행사와 함께 진행된다. 부르고뉴 자선 경매의 대표 격으로, 낙찰 와인은 12~18개월 숙성 후 병입된다. ([En Primeur Club](https://www.enprimeurclub.com/guide/how-to-attend-the-hospices-de-beaune-auction-in-2026-and-what-its-actually-like))
+- **2026년 상반기 경매 시장 호조 지속 확인:** Acker가 상반기 약 1억 2,500만 달러, Sotheby's Wine & Spirits가 29건 경매에서 약 4,920만 달러 낙찰을 기록하며 고액 컬렉터들의 희귀 보틀·대형병에 대한 구매 의지가 여전함을 보여줬다. 다음 주 이후 발표될 하반기 경매 결과도 주시할 필요가 있다. ([Vinetur](https://www.vinetur.com/en/20260907106729/collectible-wine-auctions-posted-a-stronger-first-half-in-2026.html))
+- **2026년산 프랑스 전역 작황 확정치 발표 예정:** 샴페인·부르고뉴 외 보르도 등 주요 산지의 최종 생산량 수치가 이어서 공개될 전망으로, 2027년 가격 전망에 영향을 줄 변수다.
 
----
+## 5. 오늘의 품종 공부 — 네비올로 (Nebbiolo)
 
-## 5. 오늘의 품종 공부 — 람브루스코 디 소르바라 (Lambrusco di Sorbara)
-
-- **품종 개요**: 람브루스코(Lambrusco)는 사실 단일 품종이 아니라 이탈리아 에밀리아로마냐(Emilia-Romagna) 모데나·레조 에밀리아 일대에 집중된 토착 적포도 품종군의 총칭이며, 그중 가장 섬세하고 향이 화려한 것이 바로 '람브루스코 디 소르바라'입니다. 모데나 북쪽 포강 유역 소르바라 마을 일대 모래·충적토에서 주로 재배되며, 꽃가루받이가 불안정해 포도 생산량이 적고 다른 람브루스코 품종(그라스파로사, 살라미노 등)과 혼식·혼양조되는 경우도 많습니다. ([30초 와인 어드바이저](https://30secondwineadvisor.substack.com/p/naturally-fizzy))
-- **재배·스타일 특징**: 껍질이 얇고 색소가 적어 다른 람브루스코 품종보다 색이 훨씬 옅은 체리빛~연한 루비색을 띠며, 산도가 매우 높고 타닌은 가벼운 편입니다. 전통적으로 2차 발효(메토도 안체스트랄레·샤르마 방식)로 가벼운 발포성(frizzante)을 더해 마시며, 장미·제비꽃 같은 꽃향과 레드커런트·석류 같은 상큼한 붉은 과실 아로마가 특징입니다. 당도는 세코(드라이)부터 아마빌레(미디엄 스위트)까지 다양하지만, 최근 내추럴 와인 흐름에서는 드라이·펫낫(pét-nat) 스타일이 특히 주목받고 있습니다. ([30초 와인 어드바이저](https://30secondwineadvisor.substack.com/p/naturally-fizzy))
-- **대표 와인**:
-  - 포데레 일 살리체토(Podere il Saliceto) '팔리스트라(Falistra)' — 유기농 재배·병 재발효 방식의 내추럴 스타일, 약 $20~25
-  - 안골 다미그(Angol d'Amig) '스포마(Spoma)' — 모데나 외곽 내추럴 와인 생산자의 병 재발효 퀴베, 약 $22~28
-  - 캔티나 디 소르바라(Cantina di Sorbara) '오마지오 아 지노 프리드만(Omaggio a Gino Friedmann)' — DOC 프리잔테 세코, 지역 협동조합의 대표 레이블, 약 $15~18
-  - 빌라 디 콜로(Villa di Corlo) '프리메보(Primevo)' — 유기농·지속가능 인증 DOC 프리잔테 세코, 약 $15~20
-  - 베이 모멘티(Bei Momenti) '람브루스코 디 소르바라' — 샤르마 방식의 드라이 스타일로 대형 유통망에서 접근성 높은 입문용 레이블, 약 $13~16
-  (국내 유통 가격은 수입사·빈티지·매장에 따라 차이가 있습니다.)
-- **최근 주목받는 이유**: 글로벌 내추럴 와인·로우 인터벤션 신에서 "칠링해서 가볍게 마시는 스파클링 레드" 트렌드가 확산되며, 람브루스코 디 소르바라는 병 재발효(펫낫) 방식의 독립 생산자 버전이 소믈리에들 사이에서 재조명받고 있습니다. 한 소믈리에 리뷰는 소르바라를 "람브루스코 품종군 중 가장 가지고 싶은 품종"으로 꼽았고, 오렌지·내추럴 와인 열풍에 이어 "가벼운 레드"로의 소비 이동(2절·3절에서 다룬 '칠링 레드' 트렌드와 궤를 같이함) 속에서 전통적으로 저가·저평가됐던 람브루스코 전반이 프리미엄 소량 생산 버전 중심으로 재평가되고 있습니다. ([30초 와인 어드바이저](https://30secondwineadvisor.substack.com/p/naturally-fizzy), [The Drinks Business](https://www.thedrinksbusiness.com/2022/09/lambruscos-new-wave/))
-
----
+- **원어 표기:** Nebbiolo (이탈리아어로 '안개'를 뜻하는 nebbia에서 유래했다는 설이 널리 통용됨)
+- **대표 생산국/산지:** 이탈리아 피에몬테(바롤로 DOCG, 바르바레스코 DOCG, 랑게, 가티나라, 게메 등). 극소량이 롬바르디아 발텔리나, 미국·호주 등에서도 실험적으로 재배된다.
+- **포도 특성:** 껍질은 얇지만 타닌 함량이 매우 높고 산도 또한 높은 편. 색소는 상대적으로 적어 와인 색은 연한 루비~가넷 톤이지만, 바디와 구조감은 강하다. 생육기간이 매우 길어 늦가을 안개가 낄 무렵 수확하는 경우가 많다.
+- **재배 조건:** 석회질이 섞인 점토·모래질 토양과 남향 경사면을 선호하며, 개화부터 수확까지 기간이 길어 기후에 민감하다. 피에몬테의 서늘한 가을 기후가 산도와 아로마를 유지하는 핵심 조건이다.
+- **와인 스타일:** 바디감은 중~풀바디, 산도와 타닌이 모두 높아 장기 숙성형(10~30년 이상)이며, 장미·체리·타르·감초·마른 버섯·발사믹 노트가 특징적으로 나타난다. 바롤로는 '와인의 왕', 바르바레스코는 좀 더 섬세하고 이른 시기에 마시기 좋은 스타일로 평가된다.
+- **대표 와인(생산자/레이블·가격대):**
+  1. Produttori del Barbaresco, Barbaresco 2022 — 약 $38~40대 (엔트리 바르바레스코)
+  2. G.D. Vajra, Barolo "Albe" 2021 — 약 $30대 (입문용 바롤로)
+  3. Giuseppe Cortese, Barbaresco DOCG — 중가대, 전통 스타일 바르바레스코
+  4. Massolino, Barolo — 중~고가대, 숙성 잠재력 높은 전통 스타일
+  5. Gaja, Barbaresco/Barolo(및 랑게 네비올로) — 프리미엄~최고가대(수백 달러 이상), 피에몬테를 세계적으로 알린 아이콘 생산자
+- **최근 주목받는 이유:** 바롤로·바르바레스코는 2015~2020년 사이 각각 32%, 22%의 장기 가격 상승을 보이며 부르고뉴 그랑 크뤼처럼 '테루아 중심' 수집 대상으로 자리잡고 있다("바롤로·바르바레스코의 부르고뉴화" 현상으로 불리기도 한다). 바르바레스코는 바롤로 대비 상대적 저가 매력이 부각되며 소믈리에·컬렉터들 사이에서 '지금 사야 할 와인'으로 재평가되는 분위기다. 국내에서도 이탈리아 와인 수입이 꾸준히 늘며 피에몬테 프리미엄 라인업을 다루는 와인바·레스토랑이 늘고 있다.
 
 ## 6. 한국 외식업계 와인 판매 동향
 
-- **업장 유형별 트렌드**: 파인다이닝은 여전히 샴페인·고산도 화이트가 리스트의 중심을 잡고 있고, 오마카세는 생선 코스에 맞춰 레드 와인도 가볍게 칠링해 내는 페어링을 시도하는 전담 소믈리에가 늘고 있습니다. 와인바는 넓은 BTG(글라스 와인) 구성이 표준으로 자리 잡았으며, 캐주얼 다이닝·갓포 업장은 가볍게 즐기는 '와인 다이닝' 포맷이 외식 물가 부담 속에서도 연말 모임 수요와 맞물려 꾸준히 확산되고 있습니다. 콜키지 프리를 운영하는 매장도 계속 늘어나는 추세로, 외부에서 구매한 와인을 들고 와 합리적으로 즐기려는 수요를 흡수하고 있습니다. ([핫플헌터](https://hotplacehunter.co.kr/?p=55461))
-- **화제의 상권·레이블**: 청담은 와인과 식사를 결합한 '살롱뒤부케', 갓포 요리와 와인을 매칭하는 '갓포이든'(콜키지 프리 운영), 와인 모임 장소로 입소문 난 중식당 '더라운드'가 꾸준히 화제입니다. 압구정은 와인으로 양식·일식을 아우르는 '르베미'가 거론되고, 한남·성수권은 내추럴 와인 중심의 하이브리드 다이닝·와인바가 계속 늘어나는 분위기입니다. 다만 성수·한남의 구체적인 신규 화제 레이블은 이번 조사에서 명확히 확인되지 않아, 다음 리포트에서 보완할 예정입니다.
-- **리스트 구성·마진 트렌드**: 해외 소믈리에 비즈니스 업계 분석에 따르면 2026년 와인리스트는 "고가 전략보다 정교한 큐레이션과 수익성"을 중시하는 방향으로 이동 중입니다. 산세르 등 급등한 품목은 BTG 마진이 낮아져 투렌 등 가성비 대안으로 교체되는 흐름이 있고, 로제는 더 이상 계절 품목이 아니라 연중 핵심 메뉴 카테고리로 자리 잡았다는 분석도 있습니다. 국내에서도 잔 와인(BTG)은 병 도매가를 그대로 한 잔 가격에 매겨 4~5잔으로 나눠 팔면 매출총이익률이 75~80%까지 올라가는 구조가 일반적이며, 데일리 와인엔 고마진, 프리미엄·샴페인엔 상대적으로 낮은 마진을 적용하는 이원화 리스트 구성이 표준으로 자리 잡고 있습니다. ([Sommelier Business](https://sommelierbusiness.com/en/articles/insights-1/everything-sommeliers-importers-and-distributors-need-to-know-about-wine-by-the-glass-programs-475.htm))
+### 업장 유형별 트렌드
+- **파인다이닝:** 부르고뉴·보르도 블루칩 생산자 및 피에몬테(바롤로·바르바레스코) 등 고가 큐레이션 리스트 선호가 유지되나, 고환율 영향으로 객단가 부담을 느끼는 소비자가 늘며 세컨드 레이블·인접 산지 대안 제시가 늘고 있다.
+- **와인바:** 글라스 와인(BTG) 중심 운영이 강화되는 추세다. 해외 설문에서는 응답자의 절반 이상이 2년 전보다 BTG 주문을 늘렸다고 답했는데, 국내 와인바들도 콜키지 프리 이벤트(예: 청담 '갓포이든'의 일요일 콜키지프리, '더라운드')를 결합해 손님의 다양한 와인 경험을 유도하는 방식이 자리잡고 있다.
+- **오마카세/스시:** 상큼한 화이트와인·내추럴 스파클링·샴페인 매칭이 꾸준히 강세이며, 생선 지방감에 맞춰 산도 높은 화이트를 우선 추천하는 구성이 많다.
+- **캐주얼 다이닝/내추럴 와인바:** 성수·한남 등에서는 장작 그릴·우드파이어링 요리와 내추럴·오렌지 와인을 결합한 캐주얼한 공간이 늘고 있다. 서울은 아시아에서도 내추럴 와인 씬이 가장 발달한 도시로 꼽히며, 한식 발효 음식과의 페어링이 특징으로 소개된다.
 
----
+### 서울 주요 상권 화제 업장
+- **청담:** '갓포이든'(가이세키·갓포 요리 기반, 일요일 콜키지 프리), '드레스덴그린'(컨템포러리 다이닝, 런치 코스 19만원대부터), '더라운드'(콜키지 프리 중식당 겸 와인 모임 장소)
+- **성수:** '픽픽'(정육점 콘셉트 공간에서 돼지고기 요리와 와인 페어링)
+- **한남:** '불래'(화덕·장작 그릴 기반 우드파이어링 와인바, 불을 활용한 테이스팅 코스)
+
+### 마진 좋은 리스트 구성 트렌드
+- 해외 바 트렌드 분석에 따르면 BTG 메뉴의 약 20%가 전체 BTG 매출의 80%를 차지하는 '80/20 법칙'이 여전히 유효하며, 핵심 스테디셀러 소수에 집중하는 구성이 마진 관리에 유리하다.
+- 샹세르처럼 원가가 급등해 저마진이 된 산지 대신, 포르투갈 와인 등 상대적으로 저평가된 산지를 BTG 대안으로 채택하는 흐름이 해외에서 확인되며, 국내에서도 유사한 '가성비 대체 산지' 발굴이 리스트 구성의 관건으로 떠오르고 있다.
+- Coravin 등 보존 시스템을 활용해 고가 와인도 오픈 후 산화 걱정 없이 글라스 단위로 판매하는 방식이 늘며, 고가 와인의 자본 회수 속도를 높이는 수단으로 쓰인다.
+- 로제 와인이 여름 한정 메뉴에서 연중 상시 카테고리로 자리잡으며 객단가와 회전율을 동시에 잡는 품목으로 활용되는 분위기다.
+
+*(※ 이번 섹션의 마진·BTG 구성 트렌드는 해외 바·업계 자료를 참고한 것으로, 국내 고유의 수치 데이터는 제한적이라 참고용으로 활용 권장)*
 
 ## 7. 희소·고수요 와인 동향
 
-- **부르고뉴 그랑크뤼, 경매 최상위권 독식**: 6월 와인 경매 리포트 기준 상위 5개 낙찰가 중 4개 이상이 부르고뉴 레드였고, 1999년 르루아(Leroy) 로마네-생-비방 그랑크뤼가 7,402.50달러, 2019년 콩트 리제 벨레르(Comte Liger-Belair) 라 로마네 그랑크뤼가 7,050달러에 거래됐습니다. iDealwine 바로미터도 부르고뉴 그랑크뤼 3병이 각각 2만 유로 이상에 낙찰됐다고 전합니다. ([The Wine Auction Room](https://wineauctionroom.com/?p=3474), [iDealwine](https://www.idealwine.info/?p=21602))
-- **파인와인 시장, 2년 내 공급 부족 경고도 나온다**: Drinks Business의 9월 분석은 파인와인 시장이 여전히 공급 과잉이지만 최근 빈티지 공급이 수요보다 더 빠르게 줄고 있어 2년 안에 품귀가 올 수 있다는 전망을 내놨습니다. 다만 Liv-ex의 톰 버치필드는 시장이 2026년 내내 바닥권에서 횡보할 수 있다는 반대 시각도 제시했습니다. ([The Drinks Business](https://www.thedrinksbusiness.com/2026/09/could-we-be-facing-a-fine-wine-shortage-in-two-years-time/))
-- **경매 시장 전반 회복, Acker 상반기 사상 최대 실적**: 2026년 상반기 Acker가 1억2,500만 달러의 기록적 매출을 올리며 연초 파인와인 경매 랠리를 견인했습니다. ([Vinetur](https://www.vinetur.com/it/amp/20260908106814/fine-wine-auctions-rebounded-in-early-2026-after-acker-posted-a-record-$125-million-first-half.html))
-- **보르도 1군, 희귀 올드빈티지 경매로 재조명**: 8월 영국 Dreweatts 경매에 1961년 샤토 라 미시옹 오브리옹, 1900년 이켐, 1975년 동 페리뇽 외노테크 등 올드빈티지 명품이 출품돼 컬렉터 수요를 다시 확인시켰습니다.
-- **DRC, 여전히 주류 당국 추첨제까지 동원되는 구조적 희소성**: 미국 유타주는 도멘 드 라 로마네콩티(DRC) 와인에 대해 연중 특정 기간에만 '랜덤 하우스 추첨 프로그램(RHDP)'을 운영합니다. 민간 메일링 리스트를 넘어 주 정부 추첨제까지 동원될 만큼 공급 부족이 구조적으로 이어지고 있다는 뜻입니다. ([Utah DABS](https://abs.utah.gov/shop-products/rhdp/))
+- **국내 희소 와인 서비스 논란:** 2026년 4~5월, 서울의 유명 레스토랑 '모수(Mosu)'가 와인 페어링 서비스 과정에서 손님에게 와인 정보를 정확히 안내하지 못했다며 사과하는 일이 있었다. 유명 와인 유튜버가 이를 강하게 비판하며 희소 와인의 재고 관리·빈티지 서빙 방식에 대한 소비자들의 관심과 논쟁이 커졌다. 희소 와인을 다루는 업장일수록 투명한 재고·서빙 안내가 중요하다는 점이 부각된 사례다.
+- **공급 충격에 따른 희소성 확대:** 2026년 프랑스 주요 산지의 작황 급감(샴페인 -49%, 부르고뉴 일부 -50% 이상)으로 특정 빈티지·생산자의 희소성이 더 커질 전망이다. 당장 매장 재고는 충분하지만, 2026 빈티지가 출시되는 시점에는 프리미엄 생산자 와인의 배정 물량 경쟁이 심화될 가능성이 크다.
+- **피에몬테 네비올로 와인의 재평가:** 바롤로·바르바레스코가 장기 가격 상승과 더불어 '제2의 부르고뉴'처럼 희귀 단일 포도밭(크루) 와인에 대한 컬렉터 수요가 커지는 흐름이 관찰된다. 바르바레스코는 상대적으로 저평가된 상태에서 빠르게 재조명되는 생산자(Giuseppe Cortese 등 소규모 가족 생산자)가 주목받는다.
+- **경매 시장 견조:** 2026년 상반기 Acker(약 1.25억 달러), Sotheby's Wine & Spirits(29건, 약 4,920만 달러) 등 주요 경매사 실적이 견조하게 유지되며, 희귀 보틀·대형병(매그넘 이상)·출처가 확실한 셀러 컬렉션에 대한 프리미엄 지불 의향이 여전히 높다는 점이 확인됐다.
+- **샴페인 감산에 따른 프리미엄 가능성:** 샴페인 메이커들의 지속적 감산 기조와 2026년 수확 급감이 겹치며, 중장기적으로 한정 생산 퀴베·빈티지 샴페인 중심으로 리셀 시장에서 프리미엄이 붙을 가능성이 거론된다.
 
 ---
 
-*본 보고서는 자동화된 스케줄 작업으로 매일 작성되며, GitHub Actions를 통해 텔레그램으로 전송됩니다.*
+## 출처
+
+- [Global Wine Consumption in 2026 Continues to Decline — Vinetur](https://www.vinetur.com/en/2026031097353/global-wine-consumption-in-2026-continues-to-decline-as-consumers-shift-toward-premium-and-selective-drinking.html)
+- [Wine Market Predictions 2026: A Fool's Errand? — IWC](https://www.internationalwinechallenge.com/Canopy-Articles/wine-market-predictions-2026-a-fools-errand.html)
+- [France Faces One of Its Weakest Wine Harvests in 30 Years — Vinetur](https://www.vinetur.com/en/20260907106700/france-faces-one-of-its-weakest-wine-harvests-in-30-years.html)
+- [Why a 50% Harvest Collapse Won't Leave Shelves Short of Champagne — Euronews](https://www.euronews.com/2026/09/09/why-a-50-harvest-collapse-wont-leave-shelves-short-of-champagne)
+- [Fine Wine Prices Rebound in Early 2026 — Vinetur](https://www.vinetur.com/fr/2026042499641/fine-wine-prices-rebound-in-early-2026.html)
+- [Champagne Prices Drop 12% Globally — Vinetur](https://www.vinetur.com/en/amp/2025121994390/champagne-prices-drop-12-globally-as-sales-slide-and-inventories-reach-five-year-high.html)
+- [California Wineries Welcome a Harvest That May Be 50% Smaller in Napa Valley — Vinetur](https://www.vinetur.com/en/20261019109266/california-wineries-welcome-a-harvest-that-may-be-50-smaller-in-napa-valley.html)
+- [Market Insight: Napa's 2026 "Clearing" Continues — Symbolic Wines](https://symbolicwines.com/blogs/news/market-insight-napa-s-2026-clearing-continues-as-high-end-buyers-get-more-selective)
+- [Bordeaux Wird Wieder Teurer — Meininger](https://www.meininger.de/wein/handel/bordeaux-wird-wieder-teurer)
+- [Argentina's Wine Export Volume Rose 14% in 2026 but Value Increased Only 3% — Vinetur](https://www.vinetur.com/en/20260908106784/argentinas-wine-export-volume-rose-14-in-2026-but-value-increased-only-3.html)
+- [Día del Malbec: Liderazgo Global — Vinetur](https://www.vinetur.com/amp/2026041899220/dia-del-malbec-liderazgo-global-en-un-mercado-cada-vez-mas-desafiante.html)
+- [South Korea's Wine Import Bill Fell to €184.13 Million in H1 2026 — Vinetur](https://www.vinetur.com/en/amp/20261023109648/south-koreas-wine-import-bill-fell-to-18413-million-euros-in-the-first-half-of-2026.html)
+- [France, US and Italy Command Two-Thirds of South Korea's Wine Market by Value — Vinetur](https://www.vinetur.com/en/amp/20260810105461/france-us-and-italy-command-two-thirds-of-south-koreas-wine-market-by-value.html)
+- [How to Attend the Hospices de Beaune Auction in 2026 — En Primeur Club](https://www.enprimeurclub.com/guide/how-to-attend-the-hospices-de-beaune-auction-in-2026-and-what-its-actually-like)
+- [Collectible Wine Auctions Posted a Stronger First Half in 2026 — Vinetur](https://www.vinetur.com/en/20260907106729/collectible-wine-auctions-posted-a-stronger-first-half-in-2026.html)
+- [Piedmont Wine Guide: Collectors & Barolo — Decanter](https://www.decanter.com/premium/piedmont-wine-guide-collectors-barolo-439062)
+- [A Challenge to the Conventional Wisdom on Nebbiolo — Unicorn Auctions](https://unicornauctions.com/unicorn-review/a-challenge-to-the-conventional-wisdom-on-nebbiolo)
+- [Syndrome Bourguignon pour les Barolo/Barbaresco — La Passion du Vin](https://www.lapassionduvin.com/vins-ditalie/48244-syndrome-bourguignon-pour-les-barolo-barbaresco)
+- [PJ Wine — Nebbiolo Collection](https://pjwine.com/collections/all/nebbiolo)
+- [핫플레이스헌터 — 청담·성수·한남 와인바 소개](https://hotplacehunter.co.kr/?p=61637)
+- [2026 Wine Trends — Backbar Academy](https://academy.getbackbar.com/2026-wine-trends)
+- [Global Trends Wine By The Glass Report (Coravin, Sept 2025)](https://winegb.co.uk/wp-content/uploads/Global-Trends-Wine-By-The-Glass-Report-Sept-25-Coravin.pdf)
+- [Seoul's Natural Wine Boom (2026) — Is It Funky](https://www.isitfunky.com/blog/natural-wine-seoul)
+- [소믈리에, 고객 와인담당 포지션서 배제 — 뉴시스](https://mobile.newsis.com/view/NISX20260506_0003619192)
+
+*본 리포트는 공개된 뉴스·업계 자료를 바탕으로 작성한 참고용 요약으로, 투자·구매 판단의 근거로 단독 사용하지 않기를 권장합니다.*
